@@ -2,6 +2,7 @@
 Univ.
 
 소프트웨어공학 (3학년)
+
 OOAD를 이용한 2~4인 플레이어 구성의 Bridge 보드 게임 개발
 
 - 요구 정의: 유스케이스 다이어그램, 유스케이스 명세, 도메인 모델, system sequence diagram, operation contract 작성
